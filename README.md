@@ -11,5 +11,4 @@ sudo apt-get install python-opencv
 virtualenv
 
 ```
-pip install "ipython[notebook]" # launch ipython-notebook: ipython notebook
 ```
